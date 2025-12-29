@@ -18,7 +18,7 @@ I build tools for iOS forensics analysis and mobile security research. My work f
 - **iSpy** - iOS remote administration tool with Flask backend
 - **iOS Forensics Toolkit** - Parsers for WhatsApp, SMS, Safari, and system logs
 - **TaskFlow API** - Task management REST API built with FastAPI and MongoDB
-- **PrivacyAudit** - 
+- **PrivacyAudit** - iOS privacy audit app that helps users monitor and manage app permissions. Built with SwiftUI.
 
 ## Contact
 
